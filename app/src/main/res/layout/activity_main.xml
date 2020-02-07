@@ -15,7 +15,7 @@
         android:background="#9AE0DA"
         android:gravity="center"
         android:text="@string/textBoxText"
-        android:textSize="30sp"
+        android:textSize="18sp"
         app:fontFamily="cursive"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

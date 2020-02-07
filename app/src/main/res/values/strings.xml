@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">InClassTextBoxAssign</string>
     <string name="textBoxText">0</string>
+    <string name ="seconds_passed">" Seconds have passed since last click"</string>
 </resources>
